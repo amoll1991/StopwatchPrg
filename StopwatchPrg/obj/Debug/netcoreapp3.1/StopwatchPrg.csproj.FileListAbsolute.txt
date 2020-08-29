@@ -1,0 +1,13 @@
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\bin\Debug\netcoreapp3.1\StopwatchPrg.exe
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\bin\Debug\netcoreapp3.1\StopwatchPrg.deps.json
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\bin\Debug\netcoreapp3.1\StopwatchPrg.runtimeconfig.json
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\bin\Debug\netcoreapp3.1\StopwatchPrg.runtimeconfig.dev.json
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\bin\Debug\netcoreapp3.1\StopwatchPrg.dll
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\bin\Debug\netcoreapp3.1\StopwatchPrg.pdb
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\obj\Debug\netcoreapp3.1\StopwatchPrg.csprojAssemblyReference.cache
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\obj\Debug\netcoreapp3.1\StopwatchPrg.AssemblyInfoInputs.cache
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\obj\Debug\netcoreapp3.1\StopwatchPrg.AssemblyInfo.cs
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\obj\Debug\netcoreapp3.1\StopwatchPrg.csproj.CoreCompileInputs.cache
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\obj\Debug\netcoreapp3.1\StopwatchPrg.dll
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\obj\Debug\netcoreapp3.1\StopwatchPrg.pdb
+C:\Users\Amol Khapare\source\repos\StopwatchPrg\StopwatchPrg\obj\Debug\netcoreapp3.1\StopwatchPrg.genruntimeconfig.cache
